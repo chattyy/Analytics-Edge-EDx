@@ -1,2 +1,2 @@
-# Analytics-Edge-EDx
-Through inspiring examples and stories, discover the power of data and use analytics to provide an edge to your career and your life.
+# AnalyticsEdgeEDx
+Through inspiring examples and stories, discover the power of data and use analytics to provide an edge to your career and your life. In the last decade, the amount of data available to organizations has reached unprecedented levels. Data is transforming business, social interactions, and the future of our society. The following analytics methods: linear regression, logistic regression, trees, text analytics, clustering, visualization, and optimization have been applied to real-world scenarios. I will be using the statistical software R to build models and work with data.
